@@ -1,0 +1,11 @@
+{
+  "name": "@test/service",
+  "packageManager": "yarn@3.2.0",
+  "main": "src/index.js",
+  "type": "module",
+  "dependencies": {
+    "apollo-server": "^3.7.0",
+    "axios": "^0.27.2",
+    "graphql": "^16.5.0"
+  }
+}
